@@ -3,6 +3,10 @@
   padding: 0;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 body {
   font-family: "Fira Sans", "Segoe UI", Tahoma, Verdana, sans-serif;
   color: #141414;
