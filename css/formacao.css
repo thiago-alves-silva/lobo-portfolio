@@ -13,7 +13,7 @@
 .formacao .container::after {
   content: "";
   position: absolute;
-  background: url("img/detalhe.svg") no-repeat center;
+  background: url("../img/detalhe.svg") no-repeat center;
   bottom: -170px;
   width: 128px;
   height: 100px;
@@ -102,10 +102,10 @@
   height: 24px;
 }
 .cursos h3::before {
-  background-image: url("img/cursos.svg");
+  background-image: url("../img/cursos.svg");
 }
 .idiomas h3::before {
-  background-image: url("img/idiomas.svg");
+  background-image: url("../img/idiomas.svg");
 }
 .cursos-lista,
 .idiomas-lista {
